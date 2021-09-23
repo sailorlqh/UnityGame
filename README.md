@@ -1,6 +1,6 @@
 ## README
 
-*Game name: Huoxialai*   *游戏名字：活下来* 
+*Game name: Huoxialai*(which means stay alive in Chineses)   *游戏名字：活下来* 
 
 Development members: [Jiang Li](https://github.com/RiverLeeGitHub), [Qinhang Li](https://github.com/Sailorlqh), Xia Gong
 
